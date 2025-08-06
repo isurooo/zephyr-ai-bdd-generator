@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+google-generativeai
+python-dotenv
+atlassian-python-api
+html2text
